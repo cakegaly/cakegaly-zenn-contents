@@ -1,16 +1,16 @@
 ---
-title: "ミニマリズムを追求した Next.js 15 + MDX ブログテンプレート next-minimal-blog を作ってみた"
-emoji: "🔥"
+title: "ミニマリズムを追求した Next.js 15 + MDX ブログテンプレート next-minimal-blog を作りました！"
+emoji: "🎅"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "tailwindcss", "shadcnui"]
-published: false
+published: true
 ---
 
 ## この記事の要約 (リポジトリだけ見たい人向け)
 
 Next.js (15.2.1) + MDX + shadcn/ui + Tailwind CSS で「**公式ライク & ミニマルなブログテンプレート**」を作成しました！
 
-こちらのリポジトリで公開しています！
+こちらのリポジトリで公開しています！ぜひ見ていってください！
 
 https://github.com/cakegaly/next-minimal-blog
 
